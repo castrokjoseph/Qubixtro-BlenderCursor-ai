@@ -2,6 +2,8 @@
 
 Watch Tutorial Video ->
 
+download glb models - https://3d.nih.gov/
+
 download Blender - https://www.blender.org/
 
 download Cursor - https://cursor.com/
